@@ -1,4 +1,4 @@
-package com.hit;
+package com.hit.basic;
 
 public class Main {
 
