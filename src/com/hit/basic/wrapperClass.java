@@ -11,6 +11,7 @@ public class wrapperClass {
         j+=1;
         System.out.println(j);
 
+        System.out.println(s.getClass());
         System.out.println(s.hashCode());
 
     }
